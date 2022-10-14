@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/baked_potato"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5784}, "model": "item/toast/model"}
+	]
+}

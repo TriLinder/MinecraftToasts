@@ -1,0 +1,1 @@
+give @s minecraft:cooked_porkchop{CustomModelData: 5784, display: {Name: '{"text":"Toast", "italic":false}', Lore:['{"text":"A warm toast.", "italic":false}']}}
