@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 6,
-        "description": ""
+        "pack_format": 10,
+        "description": "Add tasty toasts into the game"
     }
 }
