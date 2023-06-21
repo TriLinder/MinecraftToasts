@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/baked_potato"
+		"layer0": "item/cooked_porkchop"
 	},
 	
 	"overrides": [
